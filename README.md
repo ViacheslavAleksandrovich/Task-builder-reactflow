@@ -80,20 +80,6 @@ npm run lint
 yarn lint
 ```
 
----
-
-## 🗂 Project Structure
-
-src/
-├── components/ # React components (FlowCanvas, Sidebar, TaskNode)
-├── store/ # Redux store and slices
-├── types/ # TypeScript type definitions
-├── index.css # Tailwind CSS styles
-├── main.tsx # App entry point
-└── App.tsx # Main application component
-
----
-
 ## 🛠 Technologies Used
 
 - **React** – UI library
